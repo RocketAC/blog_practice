@@ -1,0 +1,30 @@
+.heading {
+    color:khaki;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    background-image: url('/Users/rocket/Desktop/WebDevelopment/projects/pattern.jpeg');
+}
+
+.brush {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color:blue;
+}
+
+.frame {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
